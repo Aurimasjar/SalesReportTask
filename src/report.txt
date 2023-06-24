@@ -1,0 +1,4 @@
+Total Revenue: 573.39
+Unique Customers: 20
+Most Popular Items: [product-002, product-001]
+Date with Highest Revenue: 2022-01-05
